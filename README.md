@@ -1,7 +1,8 @@
 # 🧮 Calculadora de Descontos
-
-![Calculator Preview](https://github.com/souzaseven/horatrabalhada/blob/Desafios/Hora%20trabalhada/horatrabalhada.png?raw=true)
-
+<!--
+![Calculator Preview](https://github.com/souzaseven/horatrabalhada/blob/Desafios/Hora%20trabalhada/horatrabalhada.png?raw=true )
+ Imagem com largura de 500px e altura proporcional -->
+<img src="https://github.com/souzaseven/horatrabalhada/blob/Desafios/Hora%20trabalhada/horatrabalhada.png?raw=true" alt="Calculator Preview" width="500px" />
 Uma calculadora interativa para calcular descontos em tempo real com exibição detalhada dos resultados.
 
 ## ✨ Funcionalidades
