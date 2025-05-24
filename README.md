@@ -56,10 +56,10 @@ discountPercentageInput.addEventListener('input', calcularDesconto);
 
 📊 Estrutura do Projeto
 
-calculadora-descontos/
-├── index.html          # Estrutura principal
-├── style.css           # Estilos modernos
-└── script.js           # Lógica de cálculo
+calculadora-descontos/ <br>
+├── index.html          # Estrutura principal <br>
+├── style.css           # Estilos modernos <br>
+└── script.js           # Lógica de cálculo <br>
 
 
 📱 Responsividade
@@ -76,13 +76,13 @@ body {
 }
 ```
 🚀 Como Usar
-Clone o repositório
-Abra index.html no navegador
+Clone o repositório <br>
+Abra index.html no navegador <br>
 
-Insira:
-Valor original
-Porcentagem de desconto
-Veja os resultados atualizados automaticamente
+Insira: <br>
+Valor original <br>
+Porcentagem de desconto <br>
+Veja os resultados atualizados automaticamente<br>
 
 📜 Licença
 MIT License - Livre para uso e modificação
