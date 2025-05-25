@@ -38,7 +38,7 @@ Uma calculadora interativa para calcular descontos em tempo real com exibição 
     background-color: #e0f0ff;
 }
 ```
-## ⚙️ Como Funciona
+##⚙️ Como Funciona
 Lógica Principal
 ```javascript
 function calcularDesconto() {
