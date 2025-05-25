@@ -38,7 +38,7 @@ Uma calculadora interativa para calcular descontos em tempo real com exibição 
     background-color: #e0f0ff;
 }
 ```
-⚙️ Como Funciona
+## ⚙️ Como Funciona
 Lógica Principal
 ```javascript
 function calcularDesconto() {
@@ -54,7 +54,7 @@ originalPriceInput.addEventListener('input', calcularDesconto);
 discountPercentageInput.addEventListener('input', calcularDesconto);
 ```
 
-📊 Estrutura do Projeto
+##📊 Estrutura do Projeto
 
 calculadora-descontos/ <br>
 ├── index.html          # Estrutura principal <br>
@@ -62,7 +62,7 @@ calculadora-descontos/ <br>
 └── script.js           # Lógica de cálculo <br>
 
 
-📱 Responsividade
+##📱 Responsividade
 Layout centralizado verticalmente
 Inputs com foco destacado
 Tabela adaptável
@@ -75,7 +75,7 @@ body {
     height: 100vh;
 }
 ```
-🚀 Como Usar
+##🚀 Como Usar
 Clone o repositório <br>
 Abra index.html no navegador <br>
 
@@ -84,5 +84,5 @@ Valor original <br>
 Porcentagem de desconto <br>
 Veja os resultados atualizados automaticamente<br>
 
-📜 Licença
+##📜 Licença
 MIT License - Livre para uso e modificação
